@@ -818,7 +818,7 @@ const team = [
         college: "MIT Manipal",
         batch: 2019,
         quote: "You are free, and that is why you are lost.",
-        photo: "https://ibb.co/h7Xmd5W",
+        photo: "https://i.ibb.co/NV1yNhj/298895225-820936782423282-6572006081142478739-n.jpg",
         github: "https://github.com/ShravyaMallya",
     },
     {
